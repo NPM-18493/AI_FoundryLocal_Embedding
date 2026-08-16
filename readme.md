@@ -18,3 +18,6 @@ Using Foundry CLI for model loading sets default cache location different than t
 
 <img width="958" height="433" alt="FoundryModelList" src="https://github.com/user-attachments/assets/ad373f92-325d-4d0e-98b7-96b39235cbd7" />
 
+Command to install a model
+`foundry model load "qwen2.5-coder-0.5b-instruct-generic-cpu"`
+
