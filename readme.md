@@ -1,5 +1,11 @@
 # Foundry Local
 
+## What is Foundry Local?
+
+Foundry Local is an end-to-end local AI solution for shipping applications that run entirely on your device. Use Foundry Local when you want to run AI locally, work offline, minimize latency, or keep data private. Your data never leaves the device, responses start immediately with zero network latency, and your app works offline. There are no per-token costs and no backend infrastructure to maintain.
+
+Foundry Local runs on your users' own devices, so your app works offline and you don't need an Azure subscription.
+
 ## Foundry Local CLI Installation
 
 As per your OS and device, pick suitable installation here: https://github.com/microsoft/Foundry-Local/releases
